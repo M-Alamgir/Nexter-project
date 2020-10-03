@@ -11,6 +11,10 @@ This Project is mainly focused on CSS3 Grid and Responsive design.
 ### Resources
 - Google fonts<br />
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
 ##### Sass, NPM, BEM METHADOLOGY, Live-Sever
 
 #### Student
